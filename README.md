@@ -2,8 +2,6 @@
 
 ## Online mobile phone store on React and Redux
 
-## Live Demo: [Online-Store](https://volkovva.github.io/udemy-kochergin-react/online-store)
-
 ![online-store](screenshots/demo.png 'demo online-store')
 ![online-store](screenshots/demo2.png 'demo online-store')
 
